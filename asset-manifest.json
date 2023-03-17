@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/khushiAdd/static/css/main.073c9b0a.css",
+    "main.js": "/khushiAdd/static/js/main.10243f22.js",
+    "static/js/787.28cb0dcd.chunk.js": "/khushiAdd/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/khushiAdd/index.html",
+    "main.073c9b0a.css.map": "/khushiAdd/static/css/main.073c9b0a.css.map",
+    "main.10243f22.js.map": "/khushiAdd/static/js/main.10243f22.js.map",
+    "787.28cb0dcd.chunk.js.map": "/khushiAdd/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.10243f22.js"
+  ]
+}
